@@ -1,7 +1,7 @@
-Factory Pattern in Java
+Factory Design Pattern in Java
 =====
 
-# What is Factory Pattern
+# What is Factory Design Pattern
 
 It is a creational pattern.
 
@@ -15,7 +15,7 @@ We create object without exposing the creation logic to the client and refer to 
 
 1) We can keep the method that returns the subclass as static.
 
-2) Notice that based on the input parameter, different subclass is created and returned. 
+2) Based on the input parameter, different subclass is created and returned. 
 
 # UML diagram
 
